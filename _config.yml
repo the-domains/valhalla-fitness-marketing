@@ -1,0 +1,23 @@
+name: Valhalla Fitness Marketing
+favicon: null
+layout_spectrum: 0.7740339476149529
+typography_spectrum: 0.3934882723260671
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5085909157060087
+  lightness: 0.25109461415559053
+  saturation: 0.4503979126457125
+  rhythmicContrast: 0.957527426071465
+purpose: []
